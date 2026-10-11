@@ -2,7 +2,6 @@
 
 Weapons: Any
 Armor: Any
-Core Abilities: Str, Charisma
 Hit Points: 1D8 Per Level
 
 Thick Fur - +2 to AC

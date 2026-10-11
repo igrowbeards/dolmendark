@@ -10,7 +10,7 @@ Chester: Once per day you can shape shift into a large housecat, lasts until rev
 
 # Goatman
 
-You speak low and high goatman and the common languages.
+You know low and high goatman and the common languages.
 Horns: You can butt with your horns for 1d4 damage.
 
 # Elf

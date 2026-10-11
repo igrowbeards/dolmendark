@@ -1,19 +1,16 @@
 # Conversion Notes
 
 ## Classes
-  * Added Priest of the Wood class which is lighter on magic than the shadowdark priest. This is to make room for the friar class, which is basically the wizard of the priest world.
-  * Added Man at Arms Class which is basically just the shadowdark fighter plus the fighter special attacks from the dolmenwood player book. This class is really just an option, you could cut it and use the default fighter class for the SD core book and the game should still play fine.
+The only core Shadowdark class that is replaced entirely is the Priest, instead use Priest of the Woods.
+Man at Arms is an optional alternative to the fighter class, but either should be fine in practice.
+For the Wizard and Thief classes just use the classes from Shadowdark directly.
+Kindred classes are available for groups that would like to use them.
 
-===
 
-## Glamours
+## Kindreds
+You have either a kindred and a class or can play a kindred class. If you play a kindred class do not also take the kindred ability.
+The DW elf has no kindred class, play an elven enchanter if you want to play the quintesential DW Elf.
 
-### Moon Sight
-
-Cut this spell as it is antithetical to the shadowdark experince imo.
-
-### Subtle Sight
-
-Skipped. Persistent effects feel wrong for SD to me.
-
-===
+## Magic
+Wizard and Priest spells can be used as is from shadowdark.
+I may eventually suplement the SD spell lists with spells based on the more unique entries from the DW books.

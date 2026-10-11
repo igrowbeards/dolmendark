@@ -34,22 +34,22 @@ Duration: 3 rounds
 Range: Near
 You can cause a pre-existing flame to leave it's source and float through the air in a direction of your choosing. The flame burns out after 3 rounds.
 
-Disguise Object - 
+Disguise Object
 Duration: special
 Range: Close
 An item the caster touches changes to look like some other mundane object. This effect lasts until the glamour is cast again or until the disguised object is touched by someone other than the caster.
 
-Fairy Dust - 
+Fairy Dust
 Duration: 3 rounds/1 round
 Range: Near
 Glittering motes fill the air revealing invisible objects or creatures. Can be concentrated on a single creature to blind and stun them for one round.
 
-Flame Charm - 
+Flame Charm 
 Duration: 3 rounds
 Range: Self
 Conjure flame from your hand. The conjured flame casts light in near and can be used to light flammable materials. 
 
-Darkness Charm - 
+Darkness Charm 
 Duration: 3 rounds
 Range: Near
 One mundane light source ( torch, lantern, candle, small campfire) supernaturally dims and ceases to cast light.
@@ -76,7 +76,7 @@ Mirth and Malice
 Duration: 1 Turn
 Range: Near
 
-The cast can sow a sensse of jubilation or angry despondense.
+The caster can sow a sense of jubilation or angry despondense.
 A number of creature levels up to the characters own level are affected.
 
 Seeming
@@ -98,7 +98,6 @@ Range: close
 
 The caster touches a keyhole and appears on the other side.
 Only mundane doors can be bypassed in this manner.
-
 
 Vanishing
 Duration: 3 rounds

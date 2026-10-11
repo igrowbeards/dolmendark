@@ -1,12 +1,16 @@
 # Friar
 
-Weapons: Dagger, Staff, Sling, Club
+Weapons: Dagger, Staff, Club
+
 Armor: None
 Hit Points: 1D4 Per Level
 
 Wanderer - You gain advantage on herbalism, foraging, and cooking checks.
+
 Armor of Faith - You may add your wisdom bonus to your AC instead of your dexterity bonus.
+
 Holy Spellcasting - You can cast priest spells you know. Each time you gain a level, you choose new priest spells to learn according to the Priest Spells Known table.
+
 Hauler: Add your constitution bonus, if any, to your max gear slots
 
 ### Class Talent Table

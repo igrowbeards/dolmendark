@@ -1,10 +1,13 @@
 # Knight
 
 Weapons: Any
+
 Armor: Any
+
 Hit Points: 1D8 Per Level
 
 Strength of Will - You roll with advantage to resist mind influencing magic.
+
 Steed - You have a common horse with a reliable or lovely demeanor (see pg. 29, Cursed Scroll #2).
 It comes when you call and never spooks.
 You can only have one such mount at a time.

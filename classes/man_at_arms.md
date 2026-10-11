@@ -1,11 +1,15 @@
 # Man at Arms
 
 Weapons: Any
+
 Armor: Any
+
 Hit Points: 1D8 Per Level
 
 Weapon Mastery: Choose one weapon type, you gain +1 to attacks and damage with that type, additionally add half your level rounded down to these rolls.
+
 Grit: Choose strength or dexterity, You have advantage on checks of that type to overcome an opposing force, such as kicking open a stuck door (Strength) or slipping free of rusty chains (Dexterity).
+
 Professional Specialisations: You start play with one professional specialization.
 
 ### Class Talent Table

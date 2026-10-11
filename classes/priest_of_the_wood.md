@@ -1,10 +1,13 @@
 # Cleric of the Wood
 
 Weapons: Club, crossbow, dagger, mace, longsword, staff, warhammer
+
 Armor: Any
+
 Hit Points: 1D6 Per Level
 
 Holy Spellcasting - You can cast holy spells you know. Each time you gain a level, you choose new holy spells to learn according to the Holy Spells Known table.
+
 Holy Order - You are part of a holy order within the church. You begin with the starting abilities of your order. On level up you may optionally roll on your order table instead of the base class talent table. Your starting level one spell is determined by your order.
 
 ### Class Talent Table
@@ -37,6 +40,7 @@ Holy Order - You are part of a holy order within the church. You begin with the 
 ### Witchhunter Talent Table
 
 Starting Abilities:
+
     * You roll any checks to resist the effects of arcane or fae magic with advantage.
     * You start play knowing the wizard spell detect magic (as the wizard spell, SD core pg 58). This spell counts as a holy spell when you cast it.
 

@@ -1,13 +1,18 @@
 # Batfae Kindred Class
 
 Weapons: Dagger, shortbow, shortsword, club
+
 Armor: Leather
+
 Hit Points: 1D4 Per Level
 
 Woodwinds - You may use a woodwind instrument as if it was a club.
+
 Sneaky - You roll any checks to stay undetected with advantage.
+
 BatFae Melodies - You can perform magical melodies. You start play with one melody. Pass a normal (DC 12) CHR check to perform your melodies.
 Listeners that pass a normal charisma check (DC 12) resist the effects. Lowest level creatures are affected first, but bear in mind the ability can also effect allies. The effect lasts for 3 rounds maximum or until you stop playing. You start play knowing one random melody.
+
 Sonar - Once per day you can screech and "see" to near even in total darkness for 1 round. This confers the ability to see invisible objects or creatures. No one else can "see" from this effect, not even other batfae.
 
 ### Class Talent Table

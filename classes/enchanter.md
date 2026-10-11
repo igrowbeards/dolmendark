@@ -1,11 +1,15 @@
 # Enchanter Class
 
 Weapons: Dagger, Staff, Shortsword, Longsword, Spear
+
 Armor: Leather, Chain
+
 Hit Points: 1d6 per Level
 
 Faery Magic:
+
 Glamours: You have the ability to cast small fae charms called glamours. You begin play with one glamour.
+
 Runes: You can use faery runes, you begin play with one known rune.
 
 | 2d6   | Effect                                              |

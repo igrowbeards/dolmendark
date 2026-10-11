@@ -1,11 +1,15 @@
 # Goatman Kindred Class
 
 Weapons: Any
+
 Armor: Any
+
 Hit Points: 1D8 Per Level
 
 Thick Fur - +2 to AC
+
 Horns - d4 damage natural weapon
+
 Wild Eyed - Menacing or antagonistic charisma checks against sentients of your level or lower get +2
 
 ### Class Talent Table
